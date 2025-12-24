@@ -46,3 +46,5 @@ g) Special: Ternary Operator
 result = "Even" if x % 2 == 0 else "Odd"
 
 """
+
+

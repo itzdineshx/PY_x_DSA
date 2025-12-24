@@ -1,9 +1,10 @@
 #variables and Data types
 """
-string
-integer
-float
-boolean
+character - single character
+string - series of characters
+integer - whole numbers
+float - decimal numbers
+boolean - True or False
 """
 
 name = "Dinesh" #string

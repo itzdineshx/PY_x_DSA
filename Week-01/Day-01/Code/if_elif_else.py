@@ -1,4 +1,5 @@
-amount = float(input("Enter purchase amount: "))
+# if-else-elise statements
+amount = float(input("Enter purchase amount in ₹: "))
 
 if amount >= 5000:
     discount = 0.20
@@ -7,4 +8,5 @@ elif amount >= 2000:
 else:
     discount = 0.05
 
-print(f"Final bill: {amount - (amount*discount)}")
+print(f"Final bill: ₹{amount - (amount*discount)}")
+print(f"Discount applied: {discount*100}%")

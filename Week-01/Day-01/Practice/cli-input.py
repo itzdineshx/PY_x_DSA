@@ -1,7 +1,3 @@
-#user input
-name = input("Enter something: ")
-print(name)
-
 #user input for command line
 choice = input("Enter [1] Start [2] Stop: ")
 
