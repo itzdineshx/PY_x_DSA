@@ -1,0 +1,7 @@
+- [x] Day 1 – Python basics core foundations
+- [x] Day 2 – Loops and iterative thinking
+- [x] Day 3 – Strings lists and array thinking
+- [x] Day 4 – Object Oriented Programming in Python
+- [x] Day 5 – Real world Python file handling APIs multithreading
+- [x] Day 6 – Advanced Python recursion optimization tools
+- [x] Day 7 – Python wrap up and DSA mindset
